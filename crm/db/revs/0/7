@@ -1,0 +1,29 @@
+id: 0-7.0.r7/0
+type: dir
+count: 0
+cpath: /TestSVN
+copyroot: 0 /
+
+PLAIN
+K 10
+QuartzDemo
+V 17
+dir 0-6.0.r6/6577
+K 7
+TestSVN
+V 14
+dir 0-7.0.r7/0
+END
+ENDREP
+id: 0.0.r7/153
+type: dir
+pred: 0.0.r6/6762
+count: 7
+text: 7 65 75 75 3a5d1168ece4b6a33b46b7e9b2980844 - -
+cpath: /
+copyroot: 0 /
+
+_0.0.t6-6 add-dir false false false /TestSVN
+
+
+153 283

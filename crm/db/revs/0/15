@@ -1,0 +1,128 @@
+id: 6-9.0.r15/0
+type: file
+pred: 6-9.0.r12/54
+count: 4
+text: 14 0 43 276 d62496945bd5e9e750919f759c3cb369 377068780b7397cbb43ed6cb00340f54da41b217 14-e/_6
+cpath: /TestSVN/src/cn/blb/Hello.java
+copyroot: 0 /
+
+PLAIN
+K 10
+Hello.java
+V 16
+file 6-9.0.r15/0
+END
+ENDREP
+id: 4-9.0.r15/263
+type: dir
+pred: 4-9.0.r12/320
+count: 4
+text: 15 208 42 42 38aba178cbe2b4e4f5c480e1fbaa1f82 - -
+cpath: /TestSVN/src/cn/blb
+copyroot: 0 /
+
+PLAIN
+K 3
+blb
+V 17
+dir 4-9.0.r15/263
+END
+ENDREP
+id: 2-9.0.r15/466
+type: dir
+pred: 2-9.0.r12/523
+count: 4
+text: 15 418 35 35 d09c811a8f6c0ba14b51fe951db37311 - -
+cpath: /TestSVN/src/cn
+copyroot: 0 /
+
+PLAIN
+K 2
+cn
+V 17
+dir 2-9.0.r15/466
+END
+ENDREP
+id: 9-8.0.r15/664
+type: dir
+pred: 9-8.0.r12/721
+count: 5
+text: 15 617 34 34 8f21d100df57de0b04f3b227d8e242b6 - -
+cpath: /TestSVN/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 18
+file q-8.0.r8/2101
+K 8
+.project
+V 18
+file d-8.0.r8/2283
+K 9
+.settings
+V 17
+dir 1-8.0.r8/4128
+K 10
+WebContent
+V 17
+dir 3-8.0.r8/5037
+K 5
+build
+V 17
+dir 1-11.0.r11/73
+K 3
+src
+V 17
+dir 9-8.0.r15/664
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 13
+/branch:13-14
+END
+ENDREP
+id: 0-7.0.r15/1101
+type: dir
+pred: 0-7.0.r12/1103
+count: 6
+text: 15 812 221 221 13cc09ad372e35ecb52894f1fa289b98 - -
+props: 15 1046 42 42 3bda68de835a1af001c4c7b0239ef92f - 14-e/_7
+cpath: /TestSVN
+copyroot: 0 /
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 10
+QuartzDemo
+V 17
+dir 0-6.0.r6/6577
+K 7
+TestSVN
+V 18
+dir 0-7.0.r15/1101
+K 6
+branch
+V 21
+dir 0-7.0-13.r14/1160
+END
+ENDREP
+id: 0.0.r15/1470
+type: dir
+pred: 0.0.r14/1447
+count: 15
+text: 15 1340 117 117 e6a658ae09057c5c91553188fc081b27 - -
+cpath: /
+copyroot: 0 /
+minfo-cnt: 1
+
+0-7.0.t14-e modify-dir false true true /TestSVN
+
+6-9.0.t14-e modify-file true false false /TestSVN/src/cn/blb/Hello.java
+
+
+1470 1622

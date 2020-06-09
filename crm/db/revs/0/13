@@ -1,0 +1,35 @@
+id: 0-7.0-13.r13/0
+type: dir
+pred: 0-7.0.r12/1103
+count: 6
+text: 12 869 221 221 c889d7eb157fe910a8e7d5b932bad23a - -
+cpath: /branch
+copyfrom: 12 /TestSVN
+
+PLAIN
+K 10
+QuartzDemo
+V 17
+dir 0-6.0.r6/6577
+K 7
+TestSVN
+V 18
+dir 0-7.0.r12/1103
+K 6
+branch
+V 18
+dir 0-7.0-13.r13/0
+END
+ENDREP
+id: 0.0.r13/282
+type: dir
+pred: 0.0.r12/1343
+count: 13
+text: 13 155 114 114 a8472a298c38cd91a9e88463337619d2 - -
+cpath: /
+copyroot: 0 /
+
+0-7._0.t12-c add-dir false false false /branch
+12 /TestSVN
+
+282 419

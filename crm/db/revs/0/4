@@ -1,0 +1,19 @@
+PLAIN
+K 16
+仓库地址.txt
+V 23
+file 1z-1.0.r1/30546992
+END
+ENDREP
+id: 0.0.r4/68
+type: dir
+pred: 0.0.r3/133
+count: 4
+text: 4 0 55 55 a2ba85e58bafe049865c1e876c747dfa - -
+cpath: /
+copyroot: 0 /
+
+1w-1.0.r1/30546711 delete-file false false false /VisualSVN-Server-4.2.1-x64.msi
+
+
+68 195

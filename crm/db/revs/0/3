@@ -1,0 +1,23 @@
+PLAIN
+K 30
+VisualSVN-Server-4.2.1-x64.msi
+V 23
+file 1w-1.0.r1/30546711
+K 16
+仓库地址.txt
+V 23
+file 1z-1.0.r1/30546992
+END
+ENDREP
+id: 0.0.r3/133
+type: dir
+pred: 0.0.r2/211
+count: 3
+text: 3 0 120 120 2a76227940c287f9f90eab94b805dcae - -
+cpath: /
+copyroot: 0 /
+
+1t-1.0.r1/30546354 delete-file false false false /TortoiseSVN-1.13.1.28686-x64-svn-1.13.0.msi
+
+
+133 263
